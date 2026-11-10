@@ -1,0 +1,8 @@
+check,tested_rows,max_absolute_difference,outside_tolerance
+Residential annual vs monthly × 12 (AED),2167,0.0,0
+Residential stored vs calculated yield,2167,0.0,0
+Residential USD purchase conversion (AED),2183,0.018350000027567148,0
+Institutional net-rent sum (AED),600,0.0,0
+Institutional capital reconciliation (AED),600,0.0,0
+Institutional profit reconciliation (AED),567,0.0,0
+Institutional return reconciliation,567,0.0,0

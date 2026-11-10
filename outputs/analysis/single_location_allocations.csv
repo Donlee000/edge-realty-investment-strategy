@@ -1,0 +1,176 @@
+sector,location,status,gap,selected_rows,locations,committed_aed,unspent_aed,objective_aed
+Residential,Academic City,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,12,1,14508000.0,235492000.0,591408.0
+Residential,Al Awir,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,8,1,7931000.0,242069000.0,384984.0
+Residential,Al Badaa,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,12,1,10309000.0,239691000.0,577476.0
+Residential,Al Barari,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,24,1,22637000.0,227363000.0,1155612.0
+Residential,Al Barsha South,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,12,1,13212000.0,236788000.0,577476.0
+Residential,Al Furjan,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,17,1,22121000.0,227879000.0,946848.0
+Residential,Al Garhoud,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,8,1,9320000.0,240680000.0,397080.0
+Residential,Al Habtoor City,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,8,1,5848000.0,244152000.0,384984.0
+Residential,Al Hudaiba,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,16,1,18111000.0,231889000.0,783852.0
+Residential,Al Jaddaf,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,24,1,27309000.0,222691000.0,1285980.0
+Residential,Al Jafiliya,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,16,1,17084000.0,232916000.0,783240.0
+Residential,Al Karama,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,8,1,7666000.0,242334000.0,384984.0
+Residential,Al Khawaneej,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,16,1,16359000.0,233641000.0,791532.0
+Residential,Al Mamzar,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,8,1,8593000.0,241407000.0,401784.0
+Residential,Al Manara,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,8,1,10775000.0,239225000.0,402972.0
+Residential,Al Marjan Island,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,8,1,11073000.0,238927000.0,403632.0
+Residential,Al Mina,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,12,1,12558000.0,237442000.0,577476.0
+Residential,Al Mizhar,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,12,1,13319000.0,236681000.0,591360.0
+Residential,Al Nahda,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,12,1,11533000.0,238467000.0,577476.0
+Residential,Al Quoz,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,16,1,15135000.0,234865000.0,786288.0
+Residential,Al Qusais,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,8,1,8131000.0,241869000.0,385200.0
+Residential,Al Rashidiya,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,12,1,10509000.0,239491000.0,578136.0
+Residential,Al Safa,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,11,1,15483000.0,234517000.0,785244.0
+Residential,Al Satwa,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,16,1,19831000.0,230169000.0,788784.0
+Residential,Al Sufouh,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,12,1,13219000.0,236781000.0,590160.0
+Residential,Al Twar,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,8,1,7534000.0,242466000.0,384984.0
+Residential,Al Warqa,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,12,1,13186000.0,236814000.0,593136.0
+Residential,Al Warsan,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,8,1,8857000.0,241143000.0,392304.0
+Residential,Al Wasl,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,12,1,9814000.0,240186000.0,577476.0
+Residential,Arabian Ranches,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,8,1,8890000.0,241110000.0,394752.0
+Residential,Arabian Ranches 2,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,8,1,9783000.0,240217000.0,392904.0
+Residential,Arabian Ranches 3,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,28,1,26470000.0,223530000.0,1347444.0
+Residential,Arjan,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,28,1,30865000.0,219135000.0,1368036.0
+Residential,Barsha Heights (Tecom),Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,16,1,20327000.0,229673000.0,782652.0
+Residential,Bluewaters,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,16,1,41728000.0,208272000.0,1419180.0
+Residential,Bukadra,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,16,1,12126000.0,237874000.0,769968.0
+Residential,Bur Dubai,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,8,1,11270000.0,238730000.0,407364.0
+Residential,Business Bay,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,71,1,249878000.0,122000.0,7557852.0
+Residential,City Walk,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,28,1,48128000.0,201872000.0,1916964.0
+Residential,"City of Arabia, Dubai",Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,12,1,11797000.0,238203000.0,577476.0
+Residential,Culture Village,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,16,1,17747000.0,232253000.0,771084.0
+Residential,DAMAC Hills 2,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,24,1,18835000.0,231165000.0,1154952.0
+Residential,DIFC,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,8,1,8625000.0,241375000.0,397080.0
+Residential,Damac Hills,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,28,1,32852000.0,217148000.0,1374672.0
+Residential,Damac Islands,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,8,1,11071000.0,238929000.0,403680.0
+Residential,Damac Lagoons,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,8,1,8228000.0,241772000.0,387360.0
+Residential,Deira,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,12,1,13947000.0,236053000.0,592668.0
+Residential,Discovery Gardens,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,8,1,7766000.0,242234000.0,385200.0
+Residential,District One,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,12,1,14343000.0,235657000.0,581052.0
+Residential,Downtown Dubai,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,28,1,71417000.0,178583000.0,2503500.0
+Residential,Downtown Jebel Ali,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,16,1,14177000.0,235823000.0,771084.0
+Residential,Dubai Creek Harbour,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,20,1,37614000.0,212386000.0,1503936.0
+Residential,Dubai Design District,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,4,1,5454000.0,244546000.0,200412.0
+Residential,Dubai Festival City,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,8,1,11569000.0,238431000.0,412740.0
+Residential,Dubai Harbour,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,8,1,21029000.0,228971000.0,714216.0
+Residential,Dubai Healthcare City,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,12,1,11598000.0,238402000.0,577476.0
+Residential,Dubai Hills Estate,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,24,1,41853000.0,208147000.0,1677876.0
+Residential,Dubai Industrial Park,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,16,1,17087000.0,232913000.0,799512.0
+Residential,Dubai Internet City,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,8,1,11039000.0,238961000.0,403200.0
+Residential,Dubai Investment Park,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,8,1,9187000.0,240813000.0,389196.0
+Residential,Dubai Islands,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,20,1,22242000.0,227758000.0,965436.0
+Residential,Dubai Marina,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,28,1,51552000.0,198448000.0,1960572.0
+Residential,Dubai Maritime City,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,24,1,24853000.0,225147000.0,1156740.0
+Residential,Dubai Media City,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,8,1,10179000.0,239821000.0,397668.0
+Residential,Dubai Motor City,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,16,1,15827000.0,234173000.0,783240.0
+Residential,Dubai Production City,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,20,1,16423000.0,233577000.0,963576.0
+Residential,Dubai Residence Complex,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,12,1,12062000.0,237938000.0,577476.0
+Residential,Dubai Science Park,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,12,1,13186000.0,236814000.0,591360.0
+Residential,Dubai Silicon Oasis,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,28,1,29513000.0,220487000.0,1358940.0
+Residential,Dubai South,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,24,1,27135000.0,222865000.0,1172400.0
+Residential,Dubai Sports City,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,8,1,6840000.0,243160000.0,384984.0
+Residential,Dubai Studio City,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,8,1,9088000.0,240912000.0,397668.0
+Residential,Dubai Water Canal,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,8,1,142783000.0,107217000.0,1962588.0
+Residential,Dubai Waterfront,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,16,1,21517000.0,228483000.0,801300.0
+Residential,Dubai World Central,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,8,1,6774000.0,243226000.0,384984.0
+Residential,Dubailand,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,20,1,22935000.0,227065000.0,990216.0
+Residential,Emaar Beachfront,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,28,1,73421000.0,176579000.0,2526504.0
+Residential,Emaar South,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,24,1,21248000.0,228752000.0,1171272.0
+Residential,Emirates Hills,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,8,1,20301000.0,229699000.0,702576.0
+Residential,Emirates Towers,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,8,1,9287000.0,240713000.0,388560.0
+Residential,Expo Living,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,12,1,11765000.0,238235000.0,588972.0
+Residential,Ghaf Woods,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,8,1,11734000.0,238266000.0,415668.0
+Residential,Grand Polo Club & Resort,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,8,1,8692000.0,241308000.0,402972.0
+Residential,Green Community,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,8,1,9253000.0,240747000.0,399456.0
+Residential,Hayat Island,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,8,1,11302000.0,238698000.0,407952.0
+Residential,Ibn Battuta Gate,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,16,1,18342000.0,231658000.0,777348.0
+Residential,International City,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,8,1,8692000.0,241308000.0,398868.0
+Residential,Jafza,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,8,1,7799000.0,242201000.0,384984.0
+Residential,Jebel Ali,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,12,1,14609000.0,235391000.0,589644.0
+Residential,Jumeirah,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,12,1,21152000.0,228848000.0,791064.0
+Residential,Jumeirah 1,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,16,1,15532000.0,234468000.0,772944.0
+Residential,Jumeirah Bay,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,12,1,29998000.0,220002000.0,1069392.0
+Residential,Jumeirah Beach Residence,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,12,1,14607000.0,235393000.0,584796.0
+Residential,Jumeirah Golf Estates,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,12,1,13452000.0,236548000.0,577476.0
+Residential,Jumeirah Heights,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,8,1,7997000.0,242003000.0,384984.0
+Residential,Jumeirah Islands,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,8,1,8559000.0,241441000.0,384984.0
+Residential,Jumeirah Lake Towers,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,28,1,25576000.0,224424000.0,1349820.0
+Residential,Jumeirah Park,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,12,1,13419000.0,236581000.0,583560.0
+Residential,Jumeirah Village Circle,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,28,1,27693000.0,222307000.0,1351020.0
+Residential,Jumeirah Village Triangle,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,8,1,8560000.0,241440000.0,384984.0
+Residential,La Mer,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,8,1,22938000.0,227062000.0,727848.0
+Residential,Liwan,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,16,1,16886000.0,233114000.0,780324.0
+Residential,Madinat Jumeirah Living,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,28,1,34275000.0,215725000.0,1396632.0
+Residential,Majan,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,8,1,6047000.0,243953000.0,384984.0
+Residential,Marasi Bay,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,8,1,18393000.0,231607000.0,698904.0
+Residential,Masaar,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,8,1,8328000.0,241672000.0,384984.0
+Residential,Meydan,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,16,1,29845000.0,220155000.0,1257684.0
+Residential,Mina Rashid,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,28,1,32222000.0,217778000.0,1358016.0
+Residential,Mirdif,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,12,1,11367000.0,238633000.0,584796.0
+Residential,Mohammed Bin Rashid City,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,28,1,23992000.0,226008000.0,1347444.0
+Residential,Mudon,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,12,1,9980000.0,240020000.0,577476.0
+Residential,Muhaisnah,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,16,1,14804000.0,235196000.0,769968.0
+Residential,Nad Al Hamar,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,8,1,11667000.0,238333000.0,414528.0
+Residential,Nad Al Sheba,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,8,1,7667000.0,242333000.0,384984.0
+Residential,Oud Al Muteena,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,12,1,13350000.0,236650000.0,584016.0
+Residential,Palm Jebel Ali,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,8,1,10180000.0,239820000.0,398868.0
+Residential,Palm Jumeirah,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,24,1,66721000.0,183279000.0,2181792.0
+Residential,Port De La Mer,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,24,1,59542000.0,190458000.0,2138904.0
+Residential,Ramhan Island,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,8,1,7501000.0,242499000.0,384984.0
+Residential,Ras Al Khor,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,8,1,11402000.0,238598000.0,409752.0
+Residential,Rashid Yachts and Marina,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,8,1,6808000.0,243192000.0,384984.0
+Residential,Reem,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,16,1,17648000.0,232352000.0,782652.0
+Residential,Remraam,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,8,1,9486000.0,240514000.0,387960.0
+Residential,Serena,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,8,1,8163000.0,241837000.0,398868.0
+Residential,Sheikh Zayed Road,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,11,1,21321000.0,228679000.0,794892.0
+Residential,Sobha Central,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,8,1,7337000.0,242663000.0,384984.0
+Residential,Sobha Hartland,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,28,1,46809000.0,203191000.0,1862892.0
+Residential,The Gardens,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,12,1,11004000.0,238996000.0,577476.0
+Residential,The Greens,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,16,1,14572000.0,235428000.0,769968.0
+Residential,The Hills,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,16,1,16224000.0,233776000.0,785628.0
+Residential,The Lagoons,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,8,1,9252000.0,240748000.0,387360.0
+Residential,The Lakes,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,16,1,17085000.0,232915000.0,783240.0
+Residential,The Meadows,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,8,1,9584000.0,240416000.0,384984.0
+Residential,The Oasis,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,20,1,22573000.0,227427000.0,994332.0
+Residential,The Springs,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,8,1,9352000.0,240648000.0,398256.0
+Residential,The Valley,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,28,1,35891000.0,214109000.0,1387452.0
+Residential,The Valley Phase 2,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,4,1,4329000.0,245671000.0,192492.0
+Residential,The Views,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,12,1,11467000.0,238533000.0,577476.0
+Residential,The Villa,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,16,1,16226000.0,233774000.0,769968.0
+Residential,Tilal Al Ghaf,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,28,1,33082000.0,216918000.0,1388484.0
+Residential,Town Square,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,28,1,26369000.0,223631000.0,1351656.0
+Residential,Umm Al Sheif,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,16,1,15566000.0,234434000.0,777888.0
+Residential,Umm Ramool,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,12,1,10210000.0,239790000.0,577476.0
+Residential,Umm Suqeim,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,8,1,14488000.0,235512000.0,544008.0
+Residential,Uptown Dubai,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,12,1,9682000.0,240318000.0,577476.0
+Residential,Villanova,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,28,1,27860000.0,222140000.0,1363176.0
+Residential,Wadi Al Safa 2,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,12,1,12789000.0,237211000.0,591948.0
+Residential,World Trade Centre,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,12,1,15566000.0,234434000.0,589620.0
+Residential,Zaabeel,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,8,1,8526000.0,241474000.0,384984.0
+Residential,Zaabeel Park,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,8,1,8460000.0,241540000.0,397668.0
+Institutional,Academic City,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,4,1,245475460.2,4524539.800000012,48490525.09353954
+Institutional,Al Barsha South,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,2,1,247238843.99999997,2761156.00000003,50850721.41471679
+Institutional,Al Furjan,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,3,1,244934935.8,5065064.199999988,52768634.831597656
+Institutional,Al Garhoud,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,4,1,245475460.2,4524539.800000012,48490525.09353954
+Institutional,Al Jaddaf,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,2,1,247238843.99999997,2761156.00000003,50850721.41471679
+Institutional,Al Khawaneej,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,3,1,244934935.8,5065064.199999988,52768634.831597656
+Institutional,Al Quoz,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,4,1,245475460.2,4524539.800000012,48490525.09353954
+Institutional,Al Qusais,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,2,1,247238843.99999997,2761156.00000003,50850721.41471679
+Institutional,Arjan,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,3,1,244934935.8,5065064.199999988,52768634.831597656
+Institutional,Business Bay,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,4,1,245475460.2,4524539.800000012,48490525.09353954
+Institutional,Dubai Design District,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,2,1,247238843.99999997,2761156.00000003,50850721.41471679
+Institutional,Dubai Healthcare City,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,2,1,247238843.99999997,2761156.00000003,50850721.41471679
+Institutional,Dubai Hills Estate,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,3,1,244934935.8,5065064.199999988,52768634.831597656
+Institutional,Dubai Investment Park,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,4,1,245475460.2,4524539.800000012,48490525.09353954
+Institutional,Dubai Science Park,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,2,1,247238843.99999997,2761156.00000003,50850721.41471679
+Institutional,Dubai Silicon Oasis,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,3,1,244934935.8,5065064.199999988,52768634.831597656
+Institutional,Dubai South,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,4,1,245475460.2,4524539.800000012,48490525.09353954
+Institutional,Dubai Sports City,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,2,1,247238843.99999997,2761156.00000003,50850721.41471679
+Institutional,Dubai Studio City,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,3,1,244934935.8,5065064.199999988,52768634.831597656
+Institutional,Dubailand,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,3,1,244934935.8,5065064.199999988,52768634.831597656
+Institutional,Jumeirah Lake Towers,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,4,1,245475460.2,4524539.800000012,48490525.09353954
+Institutional,Jumeirah Village Circle,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,4,1,245475460.2,4524539.800000012,48490525.09353954
+Institutional,Mirdif,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,2,1,247238843.99999997,2761156.00000003,50850721.41471679
+Institutional,Nad Al Sheba,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,3,1,244934935.8,5065064.199999988,52768634.831597656
+Institutional,Town Square,Optimization terminated successfully. (HiGHS Status 7: Optimal),0.0,4,1,245475460.2,4524539.800000012,48490525.09353954
