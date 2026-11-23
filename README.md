@@ -56,3 +56,14 @@ dashboard development are ongoing.
 
 This is an independent portfolio case study and is not affiliated
 with or commissioned by Edge Realty.
+
+## 🌐 Explore the Interactive Dashboard
+
+Explore the Edge Realty Investment Research dashboard, covering
+residential opportunities and institutional strategies under an
+AED 250 million investment ceiling.
+
+**[CLICK HERE TO VIEW THE LIVE POWER BI DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiMTM2ZWNkYmEtYzA1ZS00NDE3LWE1MTAtMGZjOTBhYjdmZDYxIiwidCI6IjJmYzk3ZGFiLWI2OGYtNDVjNi1iODI4LTJjM2RiYTI5N2I1YSJ9)**
+
+Use the navigation buttons within the report to switch between
+Residential Opportunities and Institutional Strategies.
